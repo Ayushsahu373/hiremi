@@ -13,6 +13,7 @@ class AppImages {
   static const String status = '$_basePath/status.png';
   static const String hiremi360 = '$_basePath/Frame 427318920.png';
   static const String growthChart = '$_basePath/growth_chart.png';
+  static const String notificationEmpty = '$_basePath/notification_empty.png';
 }
 
 class AppColors {
